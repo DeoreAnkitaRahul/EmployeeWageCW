@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             EmpAttendance obj = new EmpAttendance();
-            obj.CheckEmployee();
+            obj.EmployeeCheck();
         }
     }
 }
